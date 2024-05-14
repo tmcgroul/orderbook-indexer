@@ -9,6 +9,7 @@ export const DB_NAME = loadVar("DB_NAME");
 export const DB_USER = loadVar("DB_USER");
 export const DB_PASSWORD = loadVar("DB_PASSWORD");
 export const DB_HOST = loadVar("DB_HOST");
+export const DB_PORT = loadVar("DB_PORT");
 export const PRIVATE_KEY = loadVar("PRIVATE_KEY");
 export const ORDERBOOK_ID = loadVar("ORDERBOOK_ID");
 export const CLEARING_HOUSE_ID = loadVar("CLEARING_HOUSE_ID");
