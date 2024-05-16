@@ -40,7 +40,7 @@
   "dependencies": {
     "@ethersproject/bignumber": "^5.7.0",
     "@types/request": "^2.48.8",
-    "@subsquid/fuel-stream": "^0.0.1",
+    "@subsquid/fuel-stream": "^0.0.3",
     "@subsquid/fuel-objects": "^0.0.1",
     "@subsquid/batch-processor": "^0.0.0",
     "@subsquid/typeorm-store": "^1.5.1",

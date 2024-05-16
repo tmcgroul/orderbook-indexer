@@ -47,7 +47,7 @@ const dataSource = new DataSourceBuilder()
     },
   })
   .addReceipt({
-    logDataContract: [ORDERBOOK_ID],
+    contract: [ORDERBOOK_ID],
     type: ["LOG_DATA"],
     transaction: true,
   })
